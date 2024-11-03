@@ -1,1 +1,1 @@
-# Naive-Bayer-s
+# Naive-Bayer's
